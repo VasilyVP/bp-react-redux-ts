@@ -3,26 +3,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 TypeScript template.
 
-## Includes packages:
-react, react-dom (as npx create-react-app [app-name] --template typescript)
-redux, react-redux
-redux-logger
-redux-thunk
-@types/react-redux"
+## Included
+
+### Packages:
+react, react-dom (as npx create-react-app [app-name] --template typescript),
+redux, react-redux,
+redux-logger,
+redux-thunk,
+@types/react-redux",
 fs-extra (just for `npm run cpbuild`)
 
-## proxy added
+### Proxy
 
-## app structure
-### actions
-### assets
-like imgs and e.t.c.
-### commmon
-consts, common types and e.t.c.
-### components
-### reducers
-### store
-Configured store with logger for dev, 'thunk' and root reducer
+### App structure
+actions, assets(like imgs), commmon(consts, common types and e.t.c.), components, reducers, store (configured store with logger for dev, 'thunk' and root reducer)
 
 ## Available Scripts
 

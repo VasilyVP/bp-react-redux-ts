@@ -13,6 +13,17 @@ fs-extra (just for `npm run cpbuild`)
 
 ## proxy added
 
+## app structure
+### actions
+### assets
+like imgs and e.t.c.
+### commmon
+consts, common types and e.t.c.
+### components
+### reducers
+### store
+Configured store with logger for dev, 'thunk' and root reducer
+
 ## Available Scripts
 
 In the project directory, you can run:

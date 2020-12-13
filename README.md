@@ -10,8 +10,7 @@ react, react-dom (as npx create-react-app [app-name] --template typescript),
 redux, react-redux,
 redux-logger,
 redux-thunk,
-@types/react-redux",
-fs-extra (just for `npm run cpbuild`)
+@types/react-redux"
 
 ### Proxy
 

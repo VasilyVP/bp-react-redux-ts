@@ -42,8 +42,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-redux": "^7.1.9",
-    "fs-extra": "^9.0.1"
+    "@types/react-redux": "^7.1.9"
   },
   "proxy": "http://localhost:3000"
 }
